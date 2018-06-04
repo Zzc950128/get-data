@@ -1,0 +1,24 @@
+{
+  "name": "get-data",
+  "version": "1.0.0",
+  "description": "爬取众筹网数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zzc950128/get-data.git"
+  },
+  "author": "zzc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zzc950128/get-data/issues"
+  },
+  "homepage": "https://github.com/Zzc950128/get-data#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.3",
+    "superagent-charset": "^1.2.0"
+  }
+}
